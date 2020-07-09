@@ -1,2 +1,1 @@
-# JavaSpring
-Not finished yet
+# spring-peto
